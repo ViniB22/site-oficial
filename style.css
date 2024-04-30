@@ -10,11 +10,26 @@ body{
     border-radius: 15px;
 }
 .box2{
+    background-color: rgba(255, 255, 255, 0.71);
+    margin: 50px 5%;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 8px;
+    width: 510px;
+    height: auto 20px;
+}
+img{
     width: 500px;
-    height: auto;
+    height: auto;  
+    align-items: center;
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+    border-radius: 15px;
 }
 header{
     background-color: rgb(199, 90, 0);
